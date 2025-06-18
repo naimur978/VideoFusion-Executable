@@ -18,20 +18,26 @@ Basically, I made this because I got tired of the hassle and wanted a quick, rel
 ## ✨ What it does
 VideoFusion combines all video files in a folder into one single MP4 file. No technical skills needed - just double-click and done!
 
+## 🎥 Demo
+![VideoFusion Demo](VideoFusion_Demo.mov)
+
+*Watch VideoFusion in action - completely silent background operation with macOS notifications*
+
 ## 🚀 How to use
-1. **Put videos in a folder** (any video format: MP4, MOV, AVI, etc.)
-2. **Copy VideoFusion.command to that folder**
-3. **Double-click VideoFusion.command**
-4. **Wait for it to finish** - you'll get `output.mp4`
+1. **Put videos in a folder** (any video format: MP4, MOV, AVI, TS, etc.)
+2. **Copy VideoFusion to that folder**
+3. **Double-click VideoFusion**
+4. **Watch for macOS notifications** - you'll get `output.mp4`
 
 ## 📹 Supported formats
-- **Input:** MP4, MOV, AVI, MKV, WMV, FLV, WebM, M4V
+- **Input:** MP4, MOV, AVI, MKV, WMV, FLV, WebM, M4V, TS
 - **Output:** Always MP4 (best compatibility)
 
 ## ⚡ Features
 - **Lightning fast** - Uses stream copying when possible
 - **High quality** - Preserves original video quality
-- **User friendly** - Clear progress messages
+- **Silent operation** - Runs in background with macOS notifications
+- **No Terminal window** - Clean, distraction-free experience
 - **Safe** - Asks before overwriting existing files
 - **Smart** - Automatically detects all video formats
 
@@ -42,7 +48,7 @@ VideoFusion combines all video files in a folder into one single MP4 file. No te
 ## 🎯 Example
 ```
 My Videos/
-├── VideoFusion.command
+├── VideoFusion
 ├── vacation_part1.mp4
 ├── vacation_part2.mov
 ├── vacation_part3.avi
@@ -53,6 +59,7 @@ My Videos/
 - Videos are merged in alphabetical order
 - Rename files with numbers (01, 02, 03) for specific order
 - The tool works in any folder - just copy it where you need it
+- Watch for macOS notifications to track progress
 
 ---
 *Made with ❤️ for simple video merging*
