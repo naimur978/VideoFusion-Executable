@@ -19,9 +19,20 @@ Basically, I made this because I got tired of the hassle and wanted a quick, rel
 VideoFusion combines all video files in a folder into one single MP4 file. No technical skills needed - just double-click and done!
 
 ## 🎥 Demo
-![VideoFusion Demo](VideoFusion_Demo.mov)
 
-*Watch VideoFusion in action - completely silent background operation with macOS notifications*
+[🎬 **Watch Demo Video**](VideoFusion_Demo.mov)
+
+![Demo Preview](https://via.placeholder.com/600x400/1a1a1a/ffffff?text=🎬+Click+to+Watch+Demo)
+
+*VideoFusion in action - completely silent background operation with macOS notifications*
+
+### What you'll see in the demo:
+- ✅ Double-click VideoFusion executable
+- ✅ macOS notification: "Scanning for video files..."
+- ✅ macOS notification: "Found X video files to merge"
+- ✅ Silent background processing (no Terminal window)
+- ✅ macOS notification: "Fast merge successful!"
+- ✅ output.mp4 file appears in folder
 
 ## 🚀 How to use
 1. **Put videos in a folder** (any video format: MP4, MOV, AVI, TS, etc.)
