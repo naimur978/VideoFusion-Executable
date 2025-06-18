@@ -16,7 +16,7 @@ That's when I decided to make a simple script that could automatically merge dif
 Basically, I made this because I got tired of the hassle and wanted a quick, reliable way to combine videos without losing quality or going crazy.
 
 ## ✨ What it does
-VideoFusion combines all video files in a folder into one single MP4 file. No technical skills needed - just double-click and done!
+VideoFusion combines all video files in a folder into one single MP4 file. Just double-click and done!
 
 ## 🎥 Demo
 
