@@ -22,7 +22,7 @@ VideoFusion combines all video files in a folder into one single MP4 file. No te
 
 <!-- To embed your video properly on GitHub:
 1. Go to any GitHub issue or comment
-2. Drag and drop your VideoFusion_Demo.mov file
+2. Drag and drop your VideoFusion_Demo.mp4 file
 3. Copy the generated URL (starts with https://github.com/user-attachments/assets/)
 4. Replace the URL below with your generated one -->
 
